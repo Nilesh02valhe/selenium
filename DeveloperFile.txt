@@ -1,0 +1,3 @@
+Question 1) what is java 
+Question 2)why java are independent-Plateform
+Question 3) what is the main feature of java
