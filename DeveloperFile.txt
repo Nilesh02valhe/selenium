@@ -1,0 +1,9 @@
+Question 1) what is java 
+Question 2)why java are independent-Plateform
+Question 3) what is the main feature of java
+
+using for git 
+1) what is pull request  =====> means we can check bug, Error, coading statndard,conflicts,and how to add reviewer etc 
+2) what is what is git
+3) what pear review =====> means code are review 
+4) what is mean by conflict ====> when one work but two person are complete this work qt a time
